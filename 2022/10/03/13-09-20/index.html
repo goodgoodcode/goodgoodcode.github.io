@@ -320,6 +320,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2022/10/03/13-09-20/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2022/10/03/13-09-20/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -402,14 +412,6 @@
     
 
     
-      <div>
-        <div id="wechat_subscriber" style="display: block; padding: 10px 0; margin: 20px auto; width: 100%; text-align: center">
-    <img id="wechat_subscriber_qcode" src="/uploads/gongzhonghaoQR.jpg" alt="JJJJJJJJack wechat" style="width: 200px; max-width: 100%;"/>
-    <div>个人公众号</div>
-</div>
-
-      </div>
-    
 
     
 
@@ -453,6 +455,9 @@
 
           
 
+  
+    <div class="comments" id="comments">
+    </div>
   
 
 
@@ -761,6 +766,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'Diqxc9ebe8v88uWLatKO4bvF-gzGzoHsz',
+        appKey: 'Mehek1oMK5OeZYj4edyuOoIT',
+        placeholder: '终于有评论区了~',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 
