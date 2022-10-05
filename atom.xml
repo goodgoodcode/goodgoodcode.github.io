@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jack&#39;s Channel</title>
+  
+  <subtitle>Things 4 Fun</subtitle>
+  <link href="https://goodgoodcode.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://goodgoodcode.github.io/"/>
+  <updated>2022-10-04T06:16:33.436Z</updated>
+  <id>https://goodgoodcode.github.io/</id>
+  
+  <author>
+    <name>Jack</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>世界你好，我来了</title>
+    <link href="https://goodgoodcode.github.io/2022/10/03/13-09-20/"/>
+    <id>https://goodgoodcode.github.io/2022/10/03/13-09-20/</id>
+    <published>2022-10-03T05:09:20.000Z</published>
+    <updated>2022-10-04T06:16:33.436Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;这是一篇测试文章&quot;&gt;&lt;a href=&quot;#这是一篇测试文章&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试文章&quot;&gt;&lt;/a&gt;这是一篇测试文章&lt;/h3&gt;&lt;p&gt;现在是22年10月3号 13:14，虽然这是一篇测试文章，但是它的意义是非凡的。应该是今年的4、5月份就开始接触前端，学习的最好方法是通过项目来学习。个人网站这个项目是我自己很感兴趣的，一直到现在这个事情才有了点眉目，我真的非常的高兴作为一个什么都不会的小白，跟着视频教程，然后在不断地报错过程中，磕磕绊绊上线了一个好差的网站。&lt;/p&gt;
+&lt;p&gt;尽管如此，我还是非常之开心，满足。昨晚其实我搞到凌晨3、4点也没有把这个网站安顿好。真的非常烦躁，它就是报错啊，有的时候是自己的一些傻叉操作，有的时候是真的莫名其妙无法解决。那我只能是各种搜啊，各种看啊，没想到我居然如此有恒心，难道这真的是我的兴趣？&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="前端" scheme="https://goodgoodcode.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="爱联情调" scheme="https://goodgoodcode.github.io/tags/%E7%88%B1%E8%81%94%E6%83%85%E8%B0%83/"/>
+    
+  </entry>
+  
+</feed>
