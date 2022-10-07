@@ -1064,7 +1064,7 @@ pre .javascript .function {
   z-index: 1050;
   padding: 0 6px;
   width: 24px;
-  background: #222;
+  background: #93c;
   font-size: 12px;
   opacity: 0.6;
   color: #fff;
@@ -1645,7 +1645,7 @@ pre .javascript .function {
 .post-copyright {
   margin: 2em 0 0;
   padding: 0.5em 1em;
-  border-left: 3px solid #ff1700;
+  border-left: 3px solid #93c;
   background-color: #f9f9f9;
   list-style: none;
 }
@@ -1840,7 +1840,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2e659c;
+  background: #4728ff;
 }
 .links-of-blogroll {
   font-size: 13px;
