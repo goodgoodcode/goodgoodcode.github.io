@@ -1840,7 +1840,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4067a6;
+  background: #30522d;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3007,4 +3007,24 @@ pre .javascript .function {
   .post-body {
     text-align: justify;
   }
+}
+.header-inner {
+  border-radius: 20px 20px 20px 20px;
+}
+.sidebar-inner {
+  border-radius: 20px 20px 20px 20px;
+  position: absolute;
+  overflow: hidden;
+}
+.post-block {
+  border-radius: 20px 20px 20px 20px;
+}
+#posts > article + article .post-block {
+  border-radius: 20px 20px 20px 20px;
+}
+.pagination {
+  border-radius: 20px 20px 20px 20px;
+}
+.post-button .btn {
+  border-radius: 15px 15px 15px 15px;
 }
