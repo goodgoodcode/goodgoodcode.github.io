@@ -1840,7 +1840,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b0ffff;
+  background: #732f01;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3167,8 +3167,13 @@ pre .javascript .function {
   border: solid 1px;
 }
 ::selection {
-  background-color: #ffc;
-  color: #600;
+  background-color: #c9c;
+  color: #fff;
+}
+.post-button .btn:hover {
+  border-color: #fff;
+  color: #fff;
+  background: #c9c;
 }
 .vcopy.txt-right {
   display: none;
