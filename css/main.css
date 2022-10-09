@@ -1097,7 +1097,7 @@ pre .javascript .function {
 }
 .headband {
   height: 3px;
-  background: linear-gradient(to right, #339, #039, #369);
+  background: #222;
 }
 .site-meta {
   margin: 0;
@@ -1840,7 +1840,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1d3c34;
+  background: #ffffd6;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3132,7 +3132,7 @@ pre .javascript .function {
   }
 }
 .header-inner {
-  border-radius: 20px 20px 20px 20px;
+  border-radius: 30px 30px 30px 30px;
 }
 .sidebar-inner {
   border-radius: 20px 20px 20px 20px;
