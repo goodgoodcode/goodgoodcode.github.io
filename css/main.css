@@ -412,7 +412,7 @@ table>tbody>tr:nth-of-type(odd) {
   background-color: #f9f9f9;
 }
 table>tbody>tr:hover {
-  background-color: #f5f5f5;
+  background-color: #c9c;
 }
 caption,
 th,
@@ -1359,7 +1359,7 @@ pre .javascript .function {
   margin-left: -2px;
   width: 4px;
   height: 100%;
-  background: #f5f5f5;
+  background: #c9c;
   z-index: -1;
 }
 @media (max-width: 767px) {
@@ -1840,7 +1840,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #732f01;
+  background: #7a221c;
 }
 .links-of-blogroll {
   font-size: 13px;
