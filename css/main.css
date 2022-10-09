@@ -1840,7 +1840,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a7ffff;
+  background: #b0ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3136,7 +3136,7 @@ pre .javascript .function {
 }
 .site-meta {
   border-radius: 30px 30px 30px 30px;
-  background-image: linear-gradient(to right, #ff3, #fff);
+  background-image: linear-gradient(to right, #c9c, #fff);
 }
 .site-title {
   color: #fff;
