@@ -1840,7 +1840,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #870bff;
+  background: #36a1b0;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3172,4 +3172,7 @@ pre .javascript .function {
 }
 .vcopy.txt-right {
   display: none;
+}
+.comments.v {
+  border-radius: 20px 20px 20px 20px;
 }
