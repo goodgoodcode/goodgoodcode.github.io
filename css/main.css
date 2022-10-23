@@ -412,7 +412,7 @@ table>tbody>tr:nth-of-type(odd) {
   background-color: #f9f9f9;
 }
 table>tbody>tr:hover {
-  background-color: #ffc;
+  background-color: #09c;
 }
 caption,
 th,
@@ -1359,7 +1359,7 @@ pre .javascript .function {
   margin-left: -2px;
   width: 4px;
   height: 100%;
-  background: #ffc;
+  background: #09c;
   z-index: -1;
 }
 @media (max-width: 767px) {
@@ -1645,7 +1645,7 @@ pre .javascript .function {
 .post-copyright {
   margin: 2em 0 0;
   padding: 0.5em 1em;
-  border-left: 3px solid #ffc;
+  border-left: 3px solid #09c;
   background-color: #f9f9f9;
   list-style: none;
 }
@@ -1840,7 +1840,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9667fa;
+  background: #13ff57;
 }
 .links-of-blogroll {
   font-size: 13px;
