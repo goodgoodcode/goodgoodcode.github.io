@@ -412,7 +412,7 @@ table>tbody>tr:nth-of-type(odd) {
   background-color: #f9f9f9;
 }
 table>tbody>tr:hover {
-  background-color: #c9c;
+  background-color: #ffc;
 }
 caption,
 th,
@@ -1359,7 +1359,7 @@ pre .javascript .function {
   margin-left: -2px;
   width: 4px;
   height: 100%;
-  background: #c9c;
+  background: #ffc;
   z-index: -1;
 }
 @media (max-width: 767px) {
@@ -1645,7 +1645,7 @@ pre .javascript .function {
 .post-copyright {
   margin: 2em 0 0;
   padding: 0.5em 1em;
-  border-left: 3px solid #93c;
+  border-left: 3px solid #ffc;
   background-color: #f9f9f9;
   list-style: none;
 }
@@ -1840,7 +1840,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #16ff69;
+  background: #c2598a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3136,17 +3136,13 @@ pre .javascript .function {
 }
 .site-meta {
   border-radius: 30px 30px 30px 30px;
-  background-image: linear-gradient(to right, #c9c, #fff);
+  background-image: linear-gradient(to right, #ffc, #fff);
 }
 .site-title {
-  color: #fff;
-  font-weight: bold;
-  text-shadow: 2px 2px 1px #000;
+  color: #933;
 }
 .site-subtitle {
-  color: #fff;
-  font-weight: bold;
-  text-shadow: 2px 2px 1px #000;
+  color: #933;
 }
 .sidebar-inner {
   border-radius: 20px 20px 20px 20px;
@@ -3167,13 +3163,13 @@ pre .javascript .function {
   border: solid 1px;
 }
 ::selection {
-  background-color: #c9c;
-  color: #fff;
+  background-color: #ffc;
+  color: #933;
 }
 .post-button .btn:hover {
-  border-color: #fff;
-  color: #fff;
-  background: #c9c;
+  border-color: #933;
+  color: #933;
+  background: #ffc;
 }
 .vcopy.txt-right {
   display: none;
