@@ -1840,7 +1840,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #05ffff;
+  background: #9667fa;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3161,15 +3161,17 @@ pre .javascript .function {
 .post-button .btn {
   border-radius: 15px 15px 15px 15px;
   border: solid 1px;
+  border-color: #09c;
+  color: #09c;
 }
 ::selection {
-  background-color: #ffc;
-  color: #933;
+  background-color: #09c;
+  color: #fff;
 }
 .post-button .btn:hover {
-  border-color: #933;
-  color: #933;
-  background: #ffc;
+  border-color: #fff;
+  color: #fff;
+  background: #09c;
 }
 .vcopy.txt-right {
   display: none;
